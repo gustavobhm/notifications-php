@@ -1,0 +1,47 @@
+select:invalid {
+	opacity: 0.5;
+	font-style: italic;
+}
+
+.form-group.unity-address textarea {
+	background-color: #f8f8f8;
+	resize: none;
+	height: 100%;
+}
+
+.form-group.notified input {
+	background-color: #f8f8f8;
+}
+
+.input-group.date input {
+	background-color: #f8f8f8;
+}
+
+.form-group.cfm-resolution input {
+	background-color: #f8f8f8;
+}
+
+.form-group.articles input {
+	background-color: #f8f8f8;
+}
+
+#td-notification p {
+	margin: 0;
+}
+
+#td-notification span {
+	line-height: 2;
+}
+
+#td-notification td {
+	padding: 5px;
+}
+
+.fa-refresh{
+	cursor: pointer;
+	margin-left: 10px;
+}
+
+.fa-refresh:hover {
+    color: #28a745;
+}
